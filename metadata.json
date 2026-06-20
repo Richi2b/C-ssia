@@ -1,0 +1,6 @@
+{
+  "name": "Plataforma de Bem-Estar e Saúde Escolar",
+  "description": "Plataforma integrada de acompanhamento do bem-estar, saúde e desempenho de alunos, conectando gestores, professores e encarregados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
